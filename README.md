@@ -4,6 +4,10 @@ A local AI agent for game streaming. It watches the screen, describes what is ha
 
 Everything runs on a single RTX 3090. There is no cloud inference.
 
+<p align="center">
+  <img src="assets/expressions.jpg" alt="Expressions: neutral, happy, annoyed, surprised">
+</p>
+
 > **Showcase repository.** The source code is private. I can walk through it on request.
 
 ## How it works
@@ -36,10 +40,6 @@ flowchart LR
 
 ![Pipeline monitor, Twitch chat mode on Valorant](assets/dashboard_twitch.png)
 <sub>Twitch mode: the agent replies to chat, with the current game state as background context.</sub>
-
-<p align="center">
-  <img src="assets/expressions.jpg" alt="Expressions: neutral, happy, annoyed, surprised">
-</p>
 
 ## Latency and limitations
 
