@@ -4,10 +4,6 @@ A local AI agent for game streaming. It watches the screen, describes what is ha
 
 Everything runs on a single RTX 3090. There is no cloud inference.
 
-<p align="center">
-  <img src="assets/avatar.png" width="440" alt="Avatar">
-</p>
-
 > **Showcase repository.** The source code is private. I can walk through it on request.
 
 ## How it works
